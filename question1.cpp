@@ -1,5 +1,5 @@
 # QUIZ11
-// Luis Garcia Ulloa A01630685
+\\Luis Garcia Ulloa A01630685
 #include <iostream>
 #include <fstream>
 #include <cmath>
